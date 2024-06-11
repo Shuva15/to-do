@@ -1,12 +1,10 @@
 import './App.css';
-import InputBox from './components/InputBox';
-import SingleTodo from './components/SingleTodo';
+import Home from "./components/Home"
 
 function App() {
   return (
     <div>
-      <SingleTodo />
-      <InputBox />
+      <Home />
       
     </div>
   );

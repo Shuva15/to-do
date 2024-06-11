@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
 import InputBox from './InputBox'
 
 const Home = () => {
     
-  ruturn (
+  return (
     <div>
         <InputBox />
     </div>
